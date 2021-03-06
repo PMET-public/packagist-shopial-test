@@ -1,6 +1,6 @@
 {
     "name": "shopialfb/facebook-module",
-    "version": "2.2.3",
+    "version": "2.2.4",
     "type": "project",
     "authors": [
         {
@@ -8,6 +8,14 @@
             "email": "kbentrup@adobe.com"
         }
     ],
+    "extra": {
+        "map": [
+            [
+                "dist/test-file",
+                "test-file"
+            ]
+        ],
+    },
     "require": {}
 }
 
