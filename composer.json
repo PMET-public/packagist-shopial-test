@@ -1,7 +1,7 @@
 {
     "name": "shopialfb/facebook-module",
-    "version": "2.2.4",
-    "type": "project",
+    "version": "2.2.5",
+    "type": "magento2-module",
     "authors": [
         {
             "name": "Keith Bentrup",
